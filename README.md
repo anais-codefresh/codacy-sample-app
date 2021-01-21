@@ -27,4 +27,4 @@ To run tests:
 ```
 npm run test
 ```
-Please refer to the [blog post](https://codefresh.io/) for more information.
+Please refer to the [blog post](https://codefresh.io/howtos/codacy-coverage-reports/) for more information.
